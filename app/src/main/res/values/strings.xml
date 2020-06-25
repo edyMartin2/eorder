@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">e-order</string>
+    <string name="login">Entrar</string>
+    <string name="email">correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="Lorem">1: arrachera a la plancha "\n"2: Huevo al gusto"\n"3: filete de pezcado</string>
+    <string name="table">Mesa - 01</string>
+    <string name="price">$ 345.00</string>
+</resources>
